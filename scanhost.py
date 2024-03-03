@@ -124,7 +124,7 @@ Date: 03-03-24
 Dependencies:
 - Python 3.x
 
-For more information or to report issues, visit [https://github.com/Chaitanya2279/scanhost.py.git]. """)
+For more information or to report issues, visit https://github.com/Advika-Sunil/-Port-Scanning.git """)
 
     sys.exit()
 
