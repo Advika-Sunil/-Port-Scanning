@@ -32,3 +32,6 @@ python3 scanhost.py
 
 ![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/95fee565-2f35-43c4-809c-78d1f507c943)
 
+invalid input
+
+![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/da9c3bc1-f479-44e2-953c-1c3a832ad539)
