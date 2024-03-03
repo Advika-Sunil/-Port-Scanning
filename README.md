@@ -20,8 +20,15 @@ Deliverables
 
 -	The script will create sockets with the target domain name and port numbers and print the port status in colors.
 
-  --help option
-![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/9b1531fe-9ad9-417b-a36c-3d34f29d5c91)
+python3 scanhost.py --help
+  
+![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/955a4b02-c31b-4eb1-a7e6-f8dd9632e31a)
 
+python3 scanhost.py --version
 
-![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/fb2c081c-4cd7-421e-a53e-1d36c135b206)
+![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/258a6373-3dea-4ae0-88a4-a562809a3f44)
+
+python3 scanhost.py 
+
+![image](https://github.com/Advika-Sunil/Port-Scanning/assets/162045609/95fee565-2f35-43c4-809c-78d1f507c943)
+
