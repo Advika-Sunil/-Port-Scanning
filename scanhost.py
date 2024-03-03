@@ -124,9 +124,9 @@ Date: 03-03-24
 Dependencies:
 - Python 3.x
 
-For more information or to report issues, visit https://github.com/Advika-Sunil/-Port-Scanning.git """)
+For more information or to report issues, visit [https://github.com/Advika-Sunil/Port-Scanning.git]. """)
 
-    sys.exit()
+        sys.exit()
 
 
 
